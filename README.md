@@ -5,15 +5,17 @@ This lite version of the entire lexicon named SentIta interacts with Doxa, a pro
 
 This Lexicon has been presented in the 2014, as part of my Ph.D thesis, and updated in several other works, following listed:
 
-Pelosi, S and Maisto, A.  (2014). A lexicon-based approach to sentiment analysis. the italian module for nooj. In Formalising Natural Languages with Nooj 2014, 37.
+- Pelosi, S. and Maisto, A.  (2014). A lexicon-based approach to sentiment analysis. the italian module for nooj. In Formalising Natural Languages with Nooj 2014, 37.
 
-Pelosi, S. (2015). Sentita and doxa: Italian databases and tools for sentiment analysis purposes. In Proceedings of the Second Italian Conference on Computational Linguistics CLiC-it (Vol. 3, p. 4).
+- Pelosi, S. (2015). Sentita and doxa: Italian databases and tools for sentiment analysis purposes. In Proceedings of the Second Italian Conference on Computational Linguistics CLiC-it (Vol. 3, p. 4).
 
-Pelosi, S., Maisto, A., Vitale, P., & Vietri, S. (2017, December). Mining Offensive Language on Social Media. In CLiC-it.
+- Pelosi, S. (2016). Detecting subjectivity through lexicon-grammar. strategies databases, rules and apps for the italian language.
 
-Vitale, P., Pelosi, S., & Falco, M. (2020). # AndràTuttobene: Images, texts, emojis and geodata in a sentiment analysis pipeline. In CEUR Workshop Proc. 2020
+- Pelosi, S., Maisto, A., Vitale, P., & Vietri, S. (2017, December). Mining Offensive Language on Social Media. In CLiC-it.
 
-Catelli, R., Pelosi, S., & Esposito, M. (2022). Lexicon-Based vs. Bert-Based Sentiment Analysis: A Comparative Study in Italian. Electronics, 11(3), 374.
+- Vitale, P., Pelosi, S., & Falco, M. (2020). # AndràTuttobene: Images, texts, emojis and geodata in a sentiment analysis pipeline. In CEUR Workshop Proc. 2020
+
+- Catelli, R., Pelosi, S., & Esposito, M. (2022). Lexicon-Based vs. Bert-Based Sentiment Analysis: A Comparative Study in Italian. Electronics, 11(3), 374.
 
 Ask for receiving the full version of the system: spelosi[at]unisa.it
 
