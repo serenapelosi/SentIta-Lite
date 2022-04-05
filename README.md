@@ -1,5 +1,6 @@
 # SentIta-Lite
 SentIta Lite is a Sentiment lexicon for the Italian language made by Serena Pelosi, Research Fellow at ICAR CNR (Italy) and former contract professor in Linguistics and new media at the University of Salerno.
+
 This lite version of the entire lexicon named SentIta interacts with Doxa, a prototype that, interacting with the lexical database, applies a set of linguistic rules for the Documentlevel Opinionated teXt Analysis.
 
 This Lexicon has been presented in the 2015 and updated in several other works, following listed:
