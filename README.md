@@ -17,6 +17,8 @@ This Lexicon has been presented in the 2014, as part of my Ph.D thesis, and upda
 
 - Catelli, R., Pelosi, S., & Esposito, M. (2022). Lexicon-Based vs. Bert-Based Sentiment Analysis: A Comparative Study in Italian. Electronics, 11(3), 374.
 
+Other works: https://bit.ly/spelosiworks
+
 Ask for receiving the full version of the system: spelosi[at]unisa.it
 
 
