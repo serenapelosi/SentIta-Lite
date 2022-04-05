@@ -1,14 +1,14 @@
 # SentIta (Lite version)
 SentIta Lite is a Sentiment lexicon for the Italian language made by Serena Pelosi, Research Fellow at ICAR CNR (Italy) and former Contract Professor in "Linguistics and New Media" at the University of Salerno.
 
-This lite version (about 1000 words) of the entire lexicon named SentIta interacts with Doxa, a prototype that, interacting with the lexical database, applies a set of linguistic rules for the Documentlevel Opinionated teXt Analysis.
+This lite version (about 1000 words) of the entire lexicon named SentIta works with Doxa, a prototype that, interacting with the lexical database, applies a set of linguistic rules for the Documentlevel Opinionated teXt Analysis.
 
 File structure:
 
 Sentita attributes to each Italian lemma information that concern the part of speech of reference, (PoS); the Polarity (Positive or Negative); the intensity (Intense or Weak) and, in the end, a sentiment score that takes into account both the polarity and the intensity measures and ranges from -3 (for strongly negative lemmas) to +3 (for strongly positive ones).
 
 ## Works
-This Lexicon has been presented in the 2014, as part of my Ph.D thesis, and updated in several other works, following listed:
+This Lexicon has been presented in the 2014, as part of my Ph.D thesis, and updated in several other works, listed below:
 
 - Pelosi, S. and Maisto, A.  (2014). A lexicon-based approach to sentiment analysis. the italian module for nooj. In Formalising Natural Languages with Nooj 2014, 37.
 
