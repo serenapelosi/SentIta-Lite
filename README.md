@@ -15,7 +15,7 @@ Vitale, P., Pelosi, S., & Falco, M. (2020). # AndràTuttobene: Images, texts, em
 
 Catelli, R., Pelosi, S., & Esposito, M. (2022). Lexicon-Based vs. Bert-Based Sentiment Analysis: A Comparative Study in Italian. Electronics, 11(3), 374.
 
-Ask for receiving the enrire version of the system: spelosi[at]unisa.it
+Ask for receiving the full version of the system: spelosi[at]unisa.it
 
 
 
