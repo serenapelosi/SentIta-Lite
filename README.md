@@ -4,11 +4,11 @@
 
 Originally developed in 2014 as part of her doctoral research and presented at CLiC-it 2015, SentIta is a lexical resource designed to support lexicon-based sentiment analysis of Italian-language texts.
 
-The project has evolved from a lexical database into **Sentita**, an online linguistic analysis toolkit for Italian texts.
+The project has evolved from a lexical database into **Sentita Dashboard**, an online linguistic analysis toolkit for Italian texts.
 
 ## 🆕 SentIta is now available as an online tool!
 
-The original SentIta lexicon and its rule-based methodology have evolved into **Sentita**, a web-based toolkit for the linguistic analysis of Italian texts.
+The original SentIta lexicon and its rule-based methodology have evolved into **Sentita Dashboard**, a web-based toolkit for the linguistic analysis of Italian texts.
 
 **Sentita Lite is now available free of charge upon request**, providing an accessible interface for exploring sentiment analysis without requiring users to independently implement the lexical resource.
 
