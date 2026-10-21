@@ -25,7 +25,7 @@ This Lexicon has been presented in the 2014, as part of my Ph.D thesis, and upda
 Other works: https://bit.ly/spelosiworks
 
 ## Requests
-Ask for receiving the full version of the system: spelosi[at]unisa.it
+Ask for receiving the full version of the system: serena[at]socialistening.it
 
 ## Licence
 
